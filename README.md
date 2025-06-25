@@ -10,6 +10,7 @@ The application is modular, interpretable, and built according to internship pro
 
 sentiment-analysis-project/
 ├── data/
+
 │ ├── raw/ # Original IMDB dataset
 │ └── processed/ # Cleaned & preprocessed data
 ├── models/ # Saved ML model and TF-IDF vectorizer
