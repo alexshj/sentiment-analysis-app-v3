@@ -89,6 +89,4 @@ pip install -r requirements.txt
 Alex Shaju
 B.Tech in Artificial Intelligence & Data Science
 This project was developed as part of an internship for a sentiment analysis application using the IMDB dataset.
-
-📌 License
-This project is for educational and academic use only.
+Try the app at https://sentiment-analysis-app-v3-tajcr7dzriypt5cgztuqnt.streamlit.app/
