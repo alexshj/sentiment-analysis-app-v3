@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis App (Jupyter-based)
+# Sentiment Analysis App (Jupyter-based)
 
 This project is a complete sentiment analysis pipeline built using Python, NLTK, Scikit-learn, and Jupyter Notebooks. It performs preprocessing, model training, evaluation, and live predictions on movie reviews using the IMDB dataset.
 
